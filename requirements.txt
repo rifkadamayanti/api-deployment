@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+tensorflow==2.16.1
+numpy==1.26.4
+opencv-python-headless==4.11.0.86
+sqlalchemy==2.0.41
+google-generativeai
+python-multipart==0.0.20
+pydantic==2.12.5
+h5py==3.14.0
